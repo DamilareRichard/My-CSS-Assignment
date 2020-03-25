@@ -1,0 +1,27 @@
+ h1 {
+
+ 	background-color: #2EB875;
+ 	color: #E7C362;
+ 	font-variant: small-caps;
+ 	text-align: center;
+ }
+
+ h2{
+ 	color: #E60023;
+ 	font-variant: small-caps;
+ }
+
+img{
+	display: none;
+}
+
+section{
+
+background-color: #F46F09;
+}
+	
+a{ 
+	background-color: #E7DE93;
+	 color: #A32F46;   
+}
+
